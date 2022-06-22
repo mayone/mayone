@@ -17,6 +17,8 @@
   <img alt="bash-badge" src="https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=4EAA25">
 </picture>
 
+<br>
+
 <!-- ![rust](https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000#gh-light-mode-only)
 ![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000#gh-dark-mode-only)
 &nbsp;
