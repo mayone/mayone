@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000">
   <img alt="rust-badge" src="https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000">
@@ -17,7 +15,7 @@
   <img alt="bash-badge" src="https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=4EAA25">
 </picture>
 
-<br>
+<!-- <br> -->
 
 <!-- ![rust](https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000#gh-light-mode-only)
 ![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000#gh-dark-mode-only)
@@ -31,19 +29,31 @@
 ![bash](https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=4EAA25#gh-light-mode-only)
 ![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=4EAA25#gh-dark-mode-only) -->
 
+### About Me 👋
+
+I'm a software developer who codes occasionally.
+
+### Github Stats 👀
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
-  <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
+  <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-two-81.vercel.app/top-langs/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
+  <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
 
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000066,990000&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,19113E,041D75&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=60,09131B,020000&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000066,990000&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,19113E,041D75&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=60,09131B,020000&border_color=0c1a25" /> -->
 
 <!-- </details> -->
 
