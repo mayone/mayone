@@ -17,18 +17,6 @@
 
 <!-- <br> -->
 
-<!-- ![rust](https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000#gh-light-mode-only)
-![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000#gh-dark-mode-only)
-&nbsp;
-![typescript](https://img.shields.io/badge/-Typescript-dddddd?style=flat&logo=Typescript&logoColor=3178C6#gh-light-mode-only)
-![typescript](https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6#gh-dark-mode-only)
-&nbsp;
-![python](https://img.shields.io/badge/-Python-dddddd?style=flat&logo=Python&logoColor=ffdd54#gh-light-mode-only)
-![python](https://img.shields.io/badge/-Python-555555?style=flat&logo=Python&logoColor=ffdd54#gh-dark-mode-only)
-&nbsp;
-![bash](https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=4EAA25#gh-light-mode-only)
-![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=4EAA25#gh-dark-mode-only) -->
-
 ### About Me 👋
 
 I'm a software developer who codes occasionally.
@@ -36,13 +24,13 @@ I'm a software developer who codes occasionally.
 ### Github Stats 👀
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000066,660000&border_color=0c1a25">
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
   <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=80,000066,660000&border_color=0c1a25">
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-two-81.vercel.app/top-langs/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
   <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
