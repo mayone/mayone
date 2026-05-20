@@ -29,6 +29,24 @@
 
 I write code to feel something.
 
+### Featured Projects 🌟
+
+<a href="https://github.com/mayone/song-maker-pro">
+  <img alt="song-maker-pro" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=song-maker-pro&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mayone/dotfiles">
+  <img alt="dotfiles" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=dotfiles&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+</a>
+
+<a href="https://github.com/mayone/onlyew">
+  <img alt="onlyew" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=onlyew&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mayone/cr-clan-manager">
+  <img alt="cr-clan-manager" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=cr-clan-manager&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+</a>
+
 ### Github Stats 👀
 
 <picture>
