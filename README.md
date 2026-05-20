@@ -25,40 +25,12 @@
 
 ### About Me 👋
 
-I write code to feel something.
+I write code to feel alive.
 
-### Featured Projects 🌟
-
-<a href="https://github.com/mayone/song-maker-pro">
-  <img alt="song-maker-pro" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=song-maker-pro&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/mayone/dotfiles">
-  <img alt="dotfiles" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=dotfiles&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
-</a>
-
-<a href="https://github.com/mayone/onlyew">
-  <img alt="onlyew" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=onlyew&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/mayone/cr-clan-manager">
-  <img alt="cr-clan-manager" src="https://github-readme-stats-vert-two-81.vercel.app/api/pin/?username=mayone&repo=cr-clan-manager&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
-</a>
-
-### Github Stats 👀
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
-  <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
+  <img height="180px" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=75,000099,cc3300&border=0c1a25&stroke=FFFFFF&ring=FFC107&fire=FF1493&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFC107&sideLabels=FFC107&dates=FFFFFF">
+  <!-- <img height="180px" alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&hide_title=true&hide_border=true&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
+  <img height="180px" alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&hide=html&hide_title=true&hide_border=true&layout=compact&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
-&nbsp;&nbsp;
-<picture>
-  <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
-</picture>
-
-### Trophies 🏆
-
-<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=mayone&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7">
-
-### Streak 🔥
-
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=75,000099,cc3300&border=0c1a25&stroke=FFFFFF&ring=FFC107&fire=FF1493&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFC107&sideLabels=FFC107&dates=FFFFFF">
