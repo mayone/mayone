@@ -1,10 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000">
-  <img alt="rust-badge" src="https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-555555?style=flat&logo=React&logoColor=61DAFB">
+  <img alt="react-badge" src="https://img.shields.io/badge/-React-dddddd?style=flat&logo=React&logoColor=61DAFB">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Next.js-555555?style=flat&logo=next.js&logoColor=ffffff">
+  <img alt="nextjs-badge" src="https://img.shields.io/badge/-Next.js-dddddd?style=flat&logo=next.js&logoColor=000000">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6">
   <img alt="typescript-badge" src="https://img.shields.io/badge/-Typescript-dddddd?style=flat&logo=Typescript&logoColor=3178C6">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000">
+  <img alt="rust-badge" src="https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-555555?style=flat&logo=Python&logoColor=ffdd54">
