@@ -61,4 +61,4 @@ I write code to feel something.
 
 ### Streak 🔥
 
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=75,000099,cc3300&border=0c1a25&stroke=FFFFFF&ring=FFC107&fire=CC3300&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFC107&sideLabels=FFC107&dates=FFFFFF">
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=75,000099,cc3300&border=0c1a25&stroke=FFFFFF&ring=FFC107&fire=FF1493&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFC107&sideLabels=FFC107&dates=FFFFFF">
