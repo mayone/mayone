@@ -30,7 +30,7 @@ I write code to feel alive.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
-  <img height="180px" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=45,0f0c29,302b63,24243e&hide_border=true&stroke=b388ff&ring=64ffda&fire=b388ff&currStreakNum=64ffda&currStreakLabel=b388ff&sideNums=64ffda&sideLabels=b388ff&dates=ffffff">
-  <!-- <img height="180px" alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&hide_title=true&hide_border=true&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
-  <img height="180px" alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&hide=html&hide_title=true&hide_border=true&layout=compact&bg_color=45,0f0c29,302b63,24243e&title_color=64ffda&text_color=b388ff&icon_color=64ffda">
+  <img height="160px" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=45,0f0c29,302b63,24243e&hide_border=true&stroke=b388ff&ring=64ffda&fire=b388ff&currStreakNum=64ffda&currStreakLabel=b388ff&sideNums=64ffda&sideLabels=b388ff&dates=ffffff">
+  <!-- <img height="160px" alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&hide_title=true&hide_border=true&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
+  <img height="160px" alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&hide=html&hide_title=true&hide_border=true&layout=compact&bg_color=45,0f0c29,302b63,24243e&title_color=64ffda&text_color=b388ff&icon_color=64ffda">
 </picture>
