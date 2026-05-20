@@ -61,6 +61,14 @@ I write code to feel something.
   <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
 
+### Trophies 🏆
+
+<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=mayone&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7">
+
+### Streak 🔥
+
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&theme=radical">
+
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25" /> -->
