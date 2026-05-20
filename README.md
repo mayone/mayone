@@ -23,8 +23,6 @@
   <img alt="bash-badge" src="https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=4EAA25">
 </picture>
 
-<!-- <br> -->
-
 ### About Me 👋
 
 I write code to feel something.
@@ -50,14 +48,10 @@ I write code to feel something.
 ### Github Stats 👀
 
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25"> -->
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
   <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25"> -->
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-two-81.vercel.app/top-langs/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25"> -->
   <img alt="github-readme-stats" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&layout=compact&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25">
 </picture>
 
@@ -68,28 +62,3 @@ I write code to feel something.
 ### Streak 🔥
 
 <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&theme=radical">
-
-<!-- <details> -->
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000099,cc3300&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=75,000066,990000&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,000044,660000&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=80,19113E,041D75&border_color=0c1a25" /> -->
-  <!-- <img align="left" alt="mayone's GitHub Stats" src="https://github-readme-stats-vert-two-81.vercel.app/api?username=mayone&show_icons=true&theme=vision-friendly-dark&bg_color=60,09131B,020000&border_color=0c1a25" /> -->
-
-<!-- </details> -->
-
-<!--
-**mayone/mayone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
