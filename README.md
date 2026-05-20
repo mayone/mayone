@@ -27,7 +27,7 @@
 
 ### About Me 👋
 
-I'm a software developer who codes occasionally.
+I write code to feel something.
 
 ### Github Stats 👀
 
