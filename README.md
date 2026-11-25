@@ -32,7 +32,7 @@ I write code to feel alive.
 </picture>
 
 <picture>
-  <img width="406" alt="GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayone&background=45,0f0c29,302b63,24243e&hide_border=true&stroke=b388ff&ring=64ffda&fire=b388ff&currStreakNum=64ffda&currStreakLabel=b388ff&sideNums=64ffda&sideLabels=b388ff&dates=ffffff">
+  <img width="406" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mayone&background=45,0f0c29,302b63,24243e&hide_border=true&stroke=b388ff&ring=64ffda&fire=b388ff&currStreakNum=64ffda&currStreakLabel=b388ff&sideNums=64ffda&sideLabels=b388ff&dates=ffffff">
 </picture>
 &nbsp;
 <picture>
