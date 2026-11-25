@@ -1,26 +1,26 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-555555?style=flat&logo=React&logoColor=61DAFB">
-  <img alt="react-badge" src="https://img.shields.io/badge/-React-dddddd?style=flat&logo=React&logoColor=61DAFB">
+  <img alt="React" src="https://img.shields.io/badge/-React-dddddd?style=flat&logo=React&logoColor=087EA4">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Next.js-555555?style=flat&logo=next.js&logoColor=ffffff">
-  <img alt="nextjs-badge" src="https://img.shields.io/badge/-Next.js-dddddd?style=flat&logo=next.js&logoColor=000000">
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-dddddd?style=flat&logo=next.js&logoColor=000000">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6">
-  <img alt="typescript-badge" src="https://img.shields.io/badge/-Typescript-dddddd?style=flat&logo=Typescript&logoColor=3178C6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-555555?style=flat&logo=TypeScript&logoColor=98BCE3">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-dddddd?style=flat&logo=TypeScript&logoColor=3178C6">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000">
-  <img alt="rust-badge" src="https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=ffffff">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-dddddd?style=flat&logo=Rust&logoColor=000000">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-555555?style=flat&logo=Python&logoColor=ffdd54">
-  <img alt="python-badge" src="https://img.shields.io/badge/-Python-dddddd?style=flat&logo=Python&logoColor=ffdd54">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-dddddd?style=flat&logo=Python&logoColor=3776AB">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=4EAA25">
-  <img alt="bash-badge" src="https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=4EAA25">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=89E051">
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-dddddd?style=flat&logo=GNU-Bash&logoColor=3B801C">
 </picture>
 
 ### About Me 👋
