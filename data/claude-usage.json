@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "sources": {
+    "ef0f8942": {
+      "2026-11-09": {
+        "claude-fable-5-2": {
+          "requests": 145,
+          "inputTokens": 302,
+          "outputTokens": 284017,
+          "cacheReadTokens": 49234633,
+          "cacheCreationTokens": 1189880
+        },
+        "claude-haiku-5-5": {
+          "requests": 2,
+          "inputTokens": 4,
+          "outputTokens": 2109,
+          "cacheReadTokens": 3647,
+          "cacheCreationTokens": 21419
+        },
+        "claude-opus-5-5": {
+          "requests": 758,
+          "inputTokens": 1546,
+          "outputTokens": 1600612,
+          "cacheReadTokens": 89815711,
+          "cacheCreationTokens": 2914897
+        },
+        "claude-sonnet-5-5": {
+          "requests": 152,
+          "inputTokens": 304,
+          "outputTokens": 274378,
+          "cacheReadTokens": 16485125,
+          "cacheCreationTokens": 564749
+        }
+      },
+      "2026-11-16": {
+        "claude-haiku-5-5": {
+          "requests": 5,
+          "inputTokens": 10,
+          "outputTokens": 30667,
+          "cacheReadTokens": 234084,
+          "cacheCreationTokens": 177307
+        },
+        "claude-opus-5-5": {
+          "requests": 1449,
+          "inputTokens": 2958,
+          "outputTokens": 2392591,
+          "cacheReadTokens": 238915410,
+          "cacheCreationTokens": 5466616
+        },
+        "claude-sonnet-5-5": {
+          "requests": 7,
+          "inputTokens": 16,
+          "outputTokens": 5557,
+          "cacheReadTokens": 360586,
+          "cacheCreationTokens": 29741
+        }
+      },
+      "2026-11-23": {
+        "claude-fable-5-2": {
+          "requests": 233,
+          "inputTokens": 480,
+          "outputTokens": 568183,
+          "cacheReadTokens": 62503292,
+          "cacheCreationTokens": 1511868
+        },
+        "claude-haiku-5-5": {
+          "requests": 10,
+          "inputTokens": 20,
+          "outputTokens": 74292,
+          "cacheReadTokens": 211464,
+          "cacheCreationTokens": 145228
+        },
+        "claude-opus-5-5": {
+          "requests": 540,
+          "inputTokens": 1090,
+          "outputTokens": 885554,
+          "cacheReadTokens": 73275000,
+          "cacheCreationTokens": 2025495
+        }
+      }
+    }
+  }
+}
