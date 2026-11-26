@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="14" viewBox="0 0 846 14" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="846" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7c4dff"/>
+      <stop offset="0.5" stop-color="#00bfa5"/>
+      <stop offset="1" stop-color="#7c4dff"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.08" stop-color="#fff"/>
+      <stop offset="0.92" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edges" maskUnits="userSpaceOnUse" x="0" y="0" width="846" height="14">
+      <rect width="846" height="14" fill="url(#fade)"/>
+    </mask>
+  </defs>
+  <style>
+    .sweep { animation: slide 8s linear infinite; }
+    @keyframes slide {
+      from { transform: translateX(-846px); }
+      to { transform: translateX(0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .sweep { animation: none; }
+    }
+  </style>
+  <g mask="url(#edges)">
+    <rect class="sweep" y="6" width="1692" height="2" fill="url(#sweep)"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="135" viewBox="0 0 300 135" fill="none" role="img" aria-labelledby="card-title card-description">
+  <title id="card-title">Claude Code model usage</title>
+  <desc id="card-description">Opus 5.5 79.74%, Fable 5.2 13.93%, Sonnet 5.5 4.58%, Haiku 5.5 1.75%. 6.1M output tokens in the last 4 weeks.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    .title { font-size: 11px; font-weight: 600; fill: #64ffda; }
+    .meta { font-size: 10px; fill: #ffffff; }
+    .legend, .empty { font-size: 11px; fill: #b388ff; }
+    .reveal { animation: reveal 1s ease-in-out forwards; }
+    .entry { opacity: 0; animation: appear 0.3s ease-in-out forwards; }
+    @keyframes reveal { from { width: 0; } to { width: 250px; } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; }
+      .entry { opacity: 1; animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="surface" gradientTransform="rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <clipPath id="bar">
+      <rect class="reveal" x="25" y="34" width="250" height="8" rx="4"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="299" height="134" rx="4.5" fill="url(#surface)"/>
+  <text class="title" x="25" y="24">Claude Code</text>
+  <text class="meta" x="275" y="24" text-anchor="end">6.1M output tokens · last 4 weeks</text>
+  <g clip-path="url(#bar)">
+    <rect class="segment" x="25" y="34" width="194.58" height="8" fill="#2dd7b4"/>
+    <rect class="segment" x="221.58" y="34" width="33.99" height="8" fill="#61fcd7"/>
+    <rect class="segment" x="257.57" y="34" width="11.16" height="8" fill="#12b193"/>
+    <rect class="segment" x="270.73" y="34" width="4.27" height="8" fill="#098b73"/>
+  </g>
+  <g class="entry" style="animation-delay: 450ms">
+    <circle cx="30" cy="68" r="5" fill="#2dd7b4"/>
+    <text class="legend" x="40" y="72">Opus 5.5 79.74%</text>
+  </g>
+  <g class="entry" style="animation-delay: 600ms">
+    <circle cx="30" cy="94" r="5" fill="#61fcd7"/>
+    <text class="legend" x="40" y="98">Fable 5.2 13.93%</text>
+  </g>
+  <g class="entry" style="animation-delay: 450ms">
+    <circle cx="175" cy="68" r="5" fill="#12b193"/>
+    <text class="legend" x="185" y="72">Sonnet 5.5 4.58%</text>
+  </g>
+  <g class="entry" style="animation-delay: 600ms">
+    <circle cx="175" cy="94" r="5" fill="#098b73"/>
+    <text class="legend" x="185" y="98">Haiku 5.5 1.75%</text>
+  </g>
+</svg>
