@@ -36,9 +36,9 @@ I write code to feel alive.
 </picture>
 &nbsp;
 <picture>
-  <img width="355" alt="Most used languages" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&hide=html&exclude_repo=NCTU-CS-104-1-Software-Testing&hide_title=true&hide_border=true&layout=compact&bg_color=45,0f0c29,302b63,24243e&title_color=64ffda&text_color=b388ff&icon_color=64ffda">
+  <img width="355" alt="Claude Code model usage over the last four weeks" src="assets/claude-models.svg">
 </picture>
 &nbsp;
 <picture>
-  <img width="355" alt="Claude Code model usage over the last four weeks" src="assets/claude-models.svg">
+  <img width="355" alt="Most used languages" src="https://github-readme-stats-vert-two-81.vercel.app/api/top-langs?username=mayone&hide=html&exclude_repo=NCTU-CS-104-1-Software-Testing&hide_title=true&hide_border=true&layout=compact&bg_color=45,0f0c29,302b63,24243e&title_color=64ffda&text_color=b388ff&icon_color=64ffda">
 </picture>
